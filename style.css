@@ -1,0 +1,31 @@
+
+li.menu {
+   color: white;
+   background-color: yellow;
+   display: inline-block;
+   width: 15%
+}
+li.menu:hover{
+  background-color: orange;
+}
+#first{
+ color: black
+}
+#second{
+ color:blue
+}
+#third{
+ color:red
+}
+#fourth{
+ color:green
+}
+#fifth{
+    color:brown
+}
+a{
+    color: crimson;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
