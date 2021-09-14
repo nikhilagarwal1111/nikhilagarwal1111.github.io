@@ -5,6 +5,9 @@ li.menu {
    display: inline-block;
    width: 15%
 }
+p.links{
+  background-color:rgb(187, 187, 79);
+}
 li.menu:hover{
   background-color: orange;
 }
@@ -21,7 +24,10 @@ li.menu:hover{
  color:green
 }
 #fifth{
-    color:brown
+  color:brown
+}
+#sixth{
+  color: navy;
 }
 a{
     color: crimson;
